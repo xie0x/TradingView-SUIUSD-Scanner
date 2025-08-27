@@ -1,6 +1,6 @@
 # TradingView SUIUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 27 August 2025 at 14:29:15 (GMT+7)
+## Last updated: 27 August 2025 at 15:44:51 (GMT+7)
 ## Price Now: $3.42
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
@@ -68,7 +68,7 @@ SUIUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $45.32 | $38.48 | $60.24 | -$33.16 | $23.27 | $18.43 | $0.05 | -$0.05 | $0.00 | $0.00 | -$90.23 | $3.45 |
+| $45.67 | $25.75 | $44.64 | -$38.24 | $21.98 | $18.42 | $0.04 | -$0.04 | $0.00 | $0.00 | -$87.37 | $3.43 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
