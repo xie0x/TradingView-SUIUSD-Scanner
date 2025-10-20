@@ -1,6 +1,6 @@
 # TradingView SUIUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 20 October 2025 at 15:24:58 (GMT+7)
+## Last updated: 20 October 2025 at 16:22:17 (GMT+7)
 ## Price Now: $2.63
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
@@ -68,7 +68,7 @@ SUIUSD recommendation scanner based on real-time TradingView data Scanner API
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $58.35 | $81.41 | $89.03 | $65.60 | $19.54 | $22.04 | $0.08 | $0.02 | $0.03 | $0.03 | -$29.81 | $2.67 |
+| $57.62 | $75.76 | $83.34 | $51.99 | $18.80 | $21.21 | $0.08 | $0.05 | $0.03 | $0.03 | -$31.08 | $2.66 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ SUIUSD recommendation scanner based on real-time TradingView data Scanner API
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $2.63 | $2.61 | $2.61 | $2.62 | $2.59 | $2.59 | $2.57 | $2.55 | $2.58 | $2.53 | $2.69 | $2.65 |
+| $2.63 | $2.62 | $2.61 | $2.62 | $2.59 | $2.59 | $2.57 | $2.55 | $2.58 | $2.53 | $2.69 | $2.65 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
